@@ -1,0 +1,50 @@
+.container {
+    width: 500px;
+    margin: 20px auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .phuong-trinh {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  label {
+    margin-right: 5px;
+  }
+  
+  input {
+    width: 50px;
+    margin-right: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    color: blue; 
+  }
+  
+  #ket-qua {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }14:03/-heart2/-heart/-strong/-heart:>:o:-((:-h  Hôm nay
